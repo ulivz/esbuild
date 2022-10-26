@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.tsx"],
+  "sourcesContent": ["console.log(\"2\");\n\nexport const foo = function () {\n\tconsole.log(\"xxx\");\n};\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,QAAQ,IAAI,GAAG;AAER,IAAM,MAAM,WAAY;AAC9B,UAAQ,IAAI,KAAK;AAClB;",
+  "names": []
+}
